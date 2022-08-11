@@ -203,9 +203,6 @@ def selection(x):
     if x == 5:
         fibonacci_sequence()
 
-def finish():
-    end_fill()
-    done()
 
 def main():
     value = control()
